@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/jcvegab" target="blank"
+  <a href="https://twitter.com/jcvegab" target="_blank"
     ><img
       align="center"
       src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png"
@@ -14,7 +14,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.linkedin.com/in/joseph-vegab/" target="blank"
+  <a href="https://www.linkedin.com/in/joseph-vegab/" target="_blank"
     ><img
       align="center"
       src="https://image.flaticon.com/icons/png/512/174/174857.png"
@@ -22,7 +22,7 @@
       height="40"
       width="40"
   /></a>
-  <a href="https://www.behance.com/jcvegab/" target="blank"
+  <a href="https://www.behance.net/jcvegab/" target="_blank"
     ><img
       align="center"
       src="https://image.flaticon.com/icons/png/512/145/145799.png"
