@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">A passionate Full-Stack developer from Peru 🇵🇪</h3>
 
-- 🔭 I’m currently working on [Lernit MX](https://github.com/lernit-org)
+- 🔭 I’m currently working on [Lapzo](https://github.com/lernit-org)
 
 - 🌱 I’m currently learning **Next.js, Vue.js, Laravel,...**
 
