@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://jcvegab.site](https://jcvegab.site)
 
-- 💬 Ask me about **React, Typescript**
+- 💬 Ask me about **React, Typescript, Node, NestJS**
 
-- 📫 How to reach me **jcvb0206@gmail.com or joseph.vega2@unmsm.edu.pe**
+- 📫 How to reach me **admin@jcvegab.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
