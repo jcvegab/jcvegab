@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on [Proyectos San Marcos](https://github.com/Proyectos-San-Marcos)
 
-- 👨‍💻 All of my projects are available at [https://jcvegab.site](https://jcvegab.site)
+- 👨‍💻 All of my projects are available at [https://jcvegab.dev](https://jcvegab.dev)
 
 - 💬 Ask me about **React, Typescript, Node, NestJS**
 
-- 📫 How to reach me **admin@jcvegab.site**
+- 📫 How to reach me **admin@jcvegab.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
