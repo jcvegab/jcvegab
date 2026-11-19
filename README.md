@@ -1,41 +1,43 @@
 <h1 align="center">Hey 👋, I'm Joseph Vega Blacido</h1>
-<h3 align="center">Full-Stack Developer · AI Engineer | Building end-to-end products ⚡</h3>
+<h3 align="center">AI Engineer at Lapzo · Full-Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **Lapzo (by Lernit)**, building full-stack products and AI agents
-- 🌱 Focused on **AI agents, LangGraph & RAG**
-- 👯 Open to collaborate on **full-stack, AI & open-source projects**
-- 💬 Ask me about **React, TypeScript, NestJS, Python & FastAPI**
-- 📫 Reach me at **contact@jcvegab.dev**
+- I build AI agents at **Lapzo (by Lernit)**. My current work includes agent orchestration with LangGraph, retrieval-augmented generation (RAG), and API integration with FastAPI.
+- Before moving into AI engineering in April 2025, I worked on full-stack product features at Lapzo, from React component libraries to NestJS APIs.
+- I'm open to collaborating on AI, full-stack, and open-source projects.
+- Reach me at **[contact@jcvegab.dev](mailto:contact@jcvegab.dev)**.
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend**
-`React` `Next.js` `Vue` `TypeScript` `Vite` `Module Federation` `SCSS`
+**AI Engineering**  
+`Python` `LangGraph` `LangChain` `OpenAI API` `RAG`
 
-**Backend**
-`Node.js` `NestJS` `Python` `FastAPI` `Django` `GraphQL` `REST` `LangChain` `LangGraph`
+**Backend**  
+`FastAPI` `Pydantic` `SQLAlchemy` `Node.js` `NestJS` `Django` `GraphQL` `REST`
 
-**Database & Cloud**
+**Frontend**  
+`TypeScript` `React` `Next.js` `Vue` `Vite` `Webpack` `Module Federation` `SCSS`
+
+**Databases & Cloud**  
 `PostgreSQL` `SQL Server` `MongoDB` `Firebase` `AWS` `Azure` `Google Cloud`
 
-**Tools**
+**Tools**  
 `Git` `GitHub Actions` `Docker` `Storybook` `Jest` `Vitest` `Playwright` `Figma` `Linux`
 
-
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jcvegab.dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-vegab/)
-[![x](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jcvegab/)
+
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jcvegab.dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-vegab/)
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jcvegab/)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jcvegab&show_icons=true" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=jcvegab&layout=compact" />
+  <img alt="Joseph's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=jcvegab&amp;show_icons=true" />
+  <img alt="Most-used languages in Joseph's GitHub repositories" src="https://github-stats-extended.vercel.app/api/top-langs?username=jcvegab&amp;layout=compact" />
 </p>
